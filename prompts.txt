@@ -1,0 +1,8 @@
+Cria aplicação React:
+    npx create-react-app@latest .
+
+Rodar a aplicação:
+    npm start
+    npm run start
+
+npm install react-router-dom
